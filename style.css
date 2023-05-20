@@ -1,0 +1,71 @@
+h1 {
+    color: rebeccapurple;
+    text-align: center;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+#yaz {
+    background-image: url(bahar.jpg);
+    width: 370px;
+    height: 370px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50px;
+    border: 15px solid white;
+    outline:15px groove yellow;
+    margin: auto;
+}
+p.yaz {
+    color: rebeccapurple;
+}
+
+#yay {
+    background-image: url(yay2.jpg);
+    width: 370px;
+    height: 370px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50px;
+    border: 15px solid lime;
+    outline: 15px groove greenyellow;
+    margin: auto;
+}
+
+.yay {
+    color: rebeccapurple;
+}
+
+.payiz {
+    background-image: url(payiz.jpg);
+    width: 370px;
+    height: 370px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50px;
+    border: 15px solid orange;
+    outline: 15px groove brown;
+    margin: auto;
+}
+
+#payiz {
+    color: rebeccapurple;
+}
+
+.qis {
+    background-image: url(qis.jpg);
+    width: 370px;
+    height: 370px;
+    border-radius: 40px;
+    background-position: center;
+    background-size: cover;
+    border: 15px solid white;
+    outline: 15px groove skyblue;
+    margin: auto;
+}
+
+#qis {
+    color: rebeccapurple;
+}
